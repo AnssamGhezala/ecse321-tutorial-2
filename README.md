@@ -1,2 +1,3 @@
 # ecse321-tutorial-2
-Hey from documentation :)
+Hey from master :)
+
